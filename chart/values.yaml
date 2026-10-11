@@ -1,0 +1,6 @@
+replicaCount: 1
+image:
+  repository: ghcr.io/forecode-ai/sample-shop-helm
+  tag: latest
+service:
+  port: 8080

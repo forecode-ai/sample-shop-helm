@@ -1,0 +1,12 @@
+{
+  "name": "sample-shop-helm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ForeCode test estate: shop front-end",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {"node": ">=22"}
+}
